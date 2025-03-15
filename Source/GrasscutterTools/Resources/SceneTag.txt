@@ -1,9 +1,9 @@
 ﻿// 3
-101:Hdj
+101:Hdj - 璃月港海灯节装饰
 102:JadeChamber (Default)
 103:JadeChamber
-104:Hdj
-105:Fhj
+104:Hdj -  璃月港海灯节装饰
+105:Fhj -  蒙德城风花节装饰
 107:KlinSeal (Default)
 111:Ruinup
 112:QLFightPlatform
@@ -13,7 +13,7 @@
 116:Lmboss_02
 117:LYDS_01 (Default)
 118:LYDS_02
-119:Zyj
+119:Zyj - 璃月港逐月节装饰
 124:WinterCamp
 125:Hguan01 (Default)
 126:Hguan02
@@ -23,8 +23,8 @@
 130:RBQyg_03
 131:RBQyg_04
 133:RBQyg_Stage
-134:TongqueTemple_Old (Default)
-135:TongqueTemple_New
+134:TongqueTemple_Old (Default) - 璃月旧铜雀庙(默认)
+135:TongqueTemple_New - 璃月新铜雀庙
 139:HZD01 (Default)
 140:HZD02
 141:CYJY_Phase1_ON (Default)
@@ -43,19 +43,19 @@
 164:FleurFairV2
 165:FFV2_MNCH
 170:AkaFes
-171:Journey01
-172:Journey02
-173:Journey03
-174:Journey04
-175:PoetryFestival
-176:Filmfest
-177:CookGame
-178:AlchemySim03
-179:AlchemySim02
-180:AlchemySim01
-181:GreatFesV2
+171:Journey01 - 3.7「决斗！召唤之巅！」蒙德城装饰
+172:Journey02 - 3.7「决斗！召唤之巅！」璃月港装饰
+173:Journey03 - 3.7「决斗！召唤之巅！」稻妻离岛装饰
+174:Journey04 - 3.7「决斗！召唤之巅！」须弥奥摩斯港装饰
+175:PoetryFestival - 4.1「游水酝诗籍」璃月石门装饰
+176:Filmfest - 4.3「蔷薇与铳枪」枫丹城装饰
+177:CookGame - 4.4「有朋自远方来」璃月望舒客栈厨房装饰
+178:AlchemySim03 - 4.5「升炼研巧万策金」蒙德低语森林装饰
+179:AlchemySim02 - 4.5「升炼研巧万策金」蒙德低语森林装饰
+180:AlchemySim01 - 4.5「升炼研巧万策金」蒙德低语森林装饰
+181:GreatFesV2 - 4.6「荒泷生命摇滚虹色大巡回」稻妻海祈岛装饰
 182:XM_TomatoFarm
-183:SumeruBirth
+183:SumeruBirth - 5.1「彩糖与蔷薇的幻色颂」须弥城禅那园奥摩斯港装饰
 184:SumeruBirth_NL
 185:CeremonyEvent
 1001:Combine_Lyg
@@ -193,8 +193,8 @@
 1278:FD_KZST_P3
 1279:FD_QZJCZX_P1 (Default)
 1280:FD_QZJCZX_P2
-1281:FD_BoilLake_Be (Default)
-1282:FD_BoilLake_Af
+1281:FD_BoilLake_Be (Default) - 枫丹沸腾水潭解密前(默认)
+1282:FD_BoilLake_Af - 枫丹沸腾水潭解密后
 1291:FD_LS_Be (Default)
 1292:FD_LS_Af
 1293:FD_SMF_Be (Default)
@@ -208,14 +208,14 @@
 1305:BigWorld_4_3_BaseGrass
 1306:FD_LS_MLAHua
 1307:FD_LS_CKShi (Default)
-1320:FD_Tower_Bf (Default)
-1321:FD_Tower_Af
-1322:FD_DPQS_Before (Default)
-1323:FD_DPQS_After
+1320:FD_Tower_Bf (Default) - 枫丹格式塔沉没前(默认)
+1321:FD_Tower_Af - 枫丹格式塔沉没后
+1322:FD_DPQS_Before (Default) - 枫丹湖中垂柳修复前(默认黄色)
+1323:FD_DPQS_After - 枫丹湖中垂柳修复后(默认蓝色)
 1324:FD_BWLJ_Before
 1325:FD_BWLJ_After
-1326:FD_LSSG_Before (Default)
-1327:FD_LSSG_After
+1326:FD_LSSG_Before (Default) - 枫丹优兰尼娅湖的狂躁气泡(默认)
+1327:FD_LSSG_After - 枫丹优兰尼娅湖的平静气泡
 1337:FD_sxfyA_Bf (Default)
 1338:FD_sxfyA_Af
 1339:FD_sxfyD_Bf (Default)
@@ -225,9 +225,9 @@
 1330:FD_SpaceR_Be (Default)
 1331:FD_SpaceR_Af
 1332:FD_HEART_BaseGrass
-1336:WishPond_mx
-1341:FD_Fish_Be (Default)
-1342:FD_Fish_Af
+1336:WishPond_mx - 枫丹露景泉满级供奉效果(更华丽的喷泉)
+1341:FD_Fish_Be (Default) - 枫丹海底漩涡鱼群未解密(默认)
+1342:FD_Fish_Af - 枫丹海底漩涡鱼群已解密(有漩涡鱼群)
 1343:Combine_PoetryFestival
 1344:Combine_FD_PoissonFlod
 1353:Combine_Filmfest
